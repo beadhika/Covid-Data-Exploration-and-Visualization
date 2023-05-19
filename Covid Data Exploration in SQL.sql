@@ -2,7 +2,7 @@
 USE Project_Data;
 
 SELECT *
-FROM	 CovidVaccinations$
+FROM CovidVaccinations$
 ORDER BY 3,4;
 
 SELECT *
